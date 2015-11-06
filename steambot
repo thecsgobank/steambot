@@ -2,7 +2,7 @@ var admin = '76561198059130891';
 
 var logOnOptions = {
 	accountName: 'slick54333',
-	password: 'fettyawp1738'
+	password: ''
 };
 var GameTime = 120;
 
@@ -38,10 +38,10 @@ var apik = "50DF6BE9FDC8F9238779E586707ADEE8";
 
 var mysqlInfo;
 mysqlInfo = {
-  host     : '127.0.0.1',
-  user     : 'root',
-  password : 'usbw',
-  database : 'csgo',
+  host     : 'localhost',
+  user     : 'thecsgob_csgo',
+  password : '',
+  database : 'thecsgob_steam',
   charset  : 'utf8_general_ci'
 };
 
